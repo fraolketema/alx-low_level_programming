@@ -2,7 +2,7 @@
 /**
  * main - Size is not grandeur
  *
- * Return: 0 success
+ * Return: Always 0 "Success"
  */
 int main(void)
 {
