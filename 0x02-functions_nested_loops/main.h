@@ -1,9 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 int _putchar(char c);
-<<<<<<< HEAD
 void times_table(void);
-=======
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _islower(int c);
@@ -15,5 +13,4 @@ void jack_bauer(void);
 void times_table(void);
 int add(int, int);
 void print_to_98(int n);
->>>>>>> 3d30e0659ac1f8467348f9f2507b23e6f05fd038
 #endif
