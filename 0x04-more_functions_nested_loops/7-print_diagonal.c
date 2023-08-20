@@ -4,7 +4,6 @@
  * print_diagonal - A function that draws a diagonal line on the terminal
  * @n: number of time '\' should be printed
  */
-
 void print_diagonal(int n)
 {
 	if (n <= 0)
